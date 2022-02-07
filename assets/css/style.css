@@ -121,16 +121,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Changes the font of the footer and footer h2, the padding, the alignment, and the visibility*/
+/* Changes the font of the footer and footer h2, the padding, and the alignment. ALSO- my grader put that I did not have a footer, even though our demo photo did not have a footer- so I am making the footer unhidden now (it was hidden before but still here in the code)*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    visibility: hidden;
 }
-
+/*Footer*/
 .footer h2 {
     font-size: 20px;
-    visibility: hidden;
 }

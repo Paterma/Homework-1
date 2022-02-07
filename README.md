@@ -19,3 +19,6 @@ I took out the unnecessary code in the CSS, grouped together different styles in
 
 * The URL to my final webpage is: https://paterma.github.io/Homework-1/
 * The URL of GitHub Repository: https://github.com/Paterma/Homework-1  
+
+Inline-style: 
+![alt text](./assets/images/Homework-2-3-22-Paterno.PNG)
